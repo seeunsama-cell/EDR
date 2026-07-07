@@ -1,0 +1,242 @@
+[
+  {
+    "No": 1,
+    "AlertName": "ADJ1PW_PW22908_20260630_214649_7.log - Execution From memfd detected",
+    "Count": 1,
+    "Reason": ""
+  },
+  {
+    "No": 2,
+    "AlertName": "KTDSNotify.exe detected as Malware",
+    "Count": 1,
+    "Reason": ""
+  },
+  {
+    "No": 3,
+    "AlertName": "Potential Certipy Tool Execution",
+    "Count": 2,
+    "Reason": ""
+  },
+  {
+    "No": 4,
+    "AlertName": "Process Tracing in Container",
+    "Count": 6,
+    "Reason": ""
+  },
+  {
+    "No": 5,
+    "AlertName": "Rsync Spawning Shell (CVE-2024-12084)",
+    "Count": 43,
+    "Reason": ""
+  },
+  {
+    "No": 6,
+    "AlertName": "[SOC][IT] Mini Shai-Hulud 공급망 패키지 변조 위협 동향_IoC_260513",
+    "Count": 2,
+    "Reason": ""
+  },
+  {
+    "No": 7,
+    "AlertName": "[SOC][IT] kisa blind 모의침투 식별 _IP",
+    "Count": 7,
+    "Reason": ""
+  },
+  {
+    "No": 8,
+    "AlertName": "_conda - Ransomware Suspicious Filesystem Activity Detected",
+    "Count": 4,
+    "Reason": ""
+  },
+  {
+    "No": 9,
+    "AlertName": "agent - Chisel malware was detected",
+    "Count": 2,
+    "Reason": ""
+  },
+  {
+    "No": 10,
+    "AlertName": "apt-key - Shell trap usage as a trigger for execution detected",
+    "Count": 1,
+    "Reason": ""
+  },
+  {
+    "No": 11,
+    "AlertName": "bash - Creation of a suspicious executable file detected",
+    "Count": 38,
+    "Reason": ""
+  },
+  {
+    "No": 12,
+    "AlertName": "claude - Ransomware Suspicious Filesystem Activity Detected",
+    "Count": 1,
+    "Reason": ""
+  },
+  {
+    "No": 13,
+    "AlertName": "clickhouse - Userspace execution from memory detected",
+    "Count": 1,
+    "Reason": ""
+  },
+  {
+    "No": 14,
+    "AlertName": "conda.exe - Ransomware Suspicious Filesystem Activity Detected",
+    "Count": 2,
+    "Reason": ""
+  },
+  {
+    "No": 15,
+    "AlertName": "crio - Execution From memfd detected",
+    "Count": 1,
+    "Reason": ""
+  },
+  {
+    "No": 16,
+    "AlertName": "crio - Utility Replacement detected",
+    "Count": 12,
+    "Reason": ""
+  },
+  {
+    "No": 17,
+    "AlertName": "dash - Ransomware Suspicious Filesystem Activity Detected",
+    "Count": 4,
+    "Reason": ""
+  },
+  {
+    "No": 18,
+    "AlertName": "dpkg - Ransomware Suspicious Filesystem Activity Detected",
+    "Count": 19,
+    "Reason": ""
+  },
+  {
+    "No": 19,
+    "AlertName": "kmod - Abnormal multi staged load sequence detected",
+    "Count": 1,
+    "Reason": ""
+  },
+  {
+    "No": 20,
+    "AlertName": "kmod - Ransomware Suspicious Filesystem Activity Detected",
+    "Count": 1,
+    "Reason": ""
+  },
+  {
+    "No": 21,
+    "AlertName": "kmod - industroryer2 wiper detected",
+    "Count": 24,
+    "Reason": ""
+  },
+  {
+    "No": 22,
+    "AlertName": "mv - Creation of a suspicious executable file detected",
+    "Count": 1,
+    "Reason": ""
+  },
+  {
+    "No": 23,
+    "AlertName": "mv - Web Shell detected",
+    "Count": 5,
+    "Reason": ""
+  },
+  {
+    "No": 24,
+    "AlertName": "ncat - Netcat reverse shell detected",
+    "Count": 1,
+    "Reason": ""
+  },
+  {
+    "No": 25,
+    "AlertName": "objtool - Ransomware Suspicious Filesystem Activity Detected",
+    "Count": 3,
+    "Reason": ""
+  },
+  {
+    "No": 26,
+    "AlertName": "openssl - Dynamic Ransomware detected",
+    "Count": 7,
+    "Reason": ""
+  },
+  {
+    "No": 27,
+    "AlertName": "pip - Ransomware Suspicious Filesystem Activity Detected",
+    "Count": 2,
+    "Reason": ""
+  },
+  {
+    "No": 28,
+    "AlertName": "prelink - Presence of an unauthenticated process in an SSH session detected",
+    "Count": 5,
+    "Reason": ""
+  },
+  {
+    "No": 29,
+    "AlertName": "sed - Creation of a suspicious executable file detected",
+    "Count": 26,
+    "Reason": ""
+  },
+  {
+    "No": 30,
+    "AlertName": "sed - Shell trap usage as a trigger for execution detected",
+    "Count": 6,
+    "Reason": ""
+  },
+  {
+    "No": 31,
+    "AlertName": "sftp - Attempt to modify SentinelOne Agent files detected",
+    "Count": 1,
+    "Reason": ""
+  },
+  {
+    "No": 32,
+    "AlertName": "sftp-server - Creation of a suspicious executable file detected",
+    "Count": 122,
+    "Reason": ""
+  },
+  {
+    "No": 33,
+    "AlertName": "sftp-server - Shell trap usage as a trigger for execution detected",
+    "Count": 23,
+    "Reason": ""
+  },
+  {
+    "No": 34,
+    "AlertName": "sshd - Creation of a suspicious executable file detected",
+    "Count": 576,
+    "Reason": ""
+  },
+  {
+    "No": 35,
+    "AlertName": "sshd - Ransomware Suspicious Filesystem Activity Detected",
+    "Count": 4,
+    "Reason": ""
+  },
+  {
+    "No": 36,
+    "AlertName": "systemctl - Attempt to stop the agent service detected",
+    "Count": 2,
+    "Reason": ""
+  },
+  {
+    "No": 37,
+    "AlertName": "tar - Creation of a suspicious executable file detected",
+    "Count": 1,
+    "Reason": ""
+  },
+  {
+    "No": 38,
+    "AlertName": "tar - Modification Of ld Variables detected",
+    "Count": 4,
+    "Reason": ""
+  },
+  {
+    "No": 39,
+    "AlertName": "uv - Ransomware Suspicious Filesystem Activity Detected",
+    "Count": 2,
+    "Reason": ""
+  },
+  {
+    "No": 40,
+    "AlertName": "xpiwrk1 - Execution From memfd detected",
+    "Count": 1,
+    "Reason": ""
+  }
+]

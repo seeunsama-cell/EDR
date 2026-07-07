@@ -1,0 +1,1236 @@
+{
+  "sshd - Creation of a suspicious executable file detected": {
+    "done": true,
+    "ids": [
+      "019f324c-a7e5-77a9-ab89-17e91124ecbd",
+      "019f2ec9-035f-7722-aa06-4008249bb4bb",
+      "019f2ec9-0300-7fe7-af16-a90cbf9711ea",
+      "019f2ec9-296a-7d5e-853e-0d3d597fb0f7",
+      "019f2ec8-2bd2-7a81-a3de-266afb27006c",
+      "019f2ec8-2e93-7e9c-903f-b3c4207a3998",
+      "019f2ec7-62da-74b6-8303-2e96fd94db49",
+      "019f2ec5-a688-79b3-8792-e9e35d4bda72",
+      "019f2ec5-6aa1-74be-a11c-da5ae9e5518a",
+      "019f2ec5-69cc-7fac-b813-cbeab5e6d6a8",
+      "019f2ec5-a5dd-75e7-bf93-3235ba913d41",
+      "019f2ec3-fa9e-7451-8027-7c2665314652",
+      "019f2ec4-15e7-7069-a728-14b3b022d641",
+      "019f2ec2-f397-7b3d-bf54-cac63dd2d76d",
+      "019f2ec2-e26f-75f0-8e2e-03ecdcc48c72",
+      "019f2ec2-e202-783c-89a8-fec3a29ea7ca",
+      "019f2ec2-f2a8-7f42-96af-7d5716af608a",
+      "019f2ec1-dcc0-7375-b345-e316c1325d3c",
+      "019f2ec1-db05-746f-b2a3-fe5f494f4ea7"
+    ],
+    "checked": [
+      {
+        "id": "019f324c-a7e5-77a9-ab89-17e91124ecbd",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 6, 2026 10:11:12 AM",
+            "content": "anagent 관련 작업으로 확인되어, 추가 예외처리 검토 중 입니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 6, 2026 10:11:12 AM",
+        "content": "anagent 관련 작업으로 확인되어, 추가 예외처리 검토 중 입니다."
+      }
+    ]
+  },
+  "sftp-server - Creation of a suspicious executable file detected": {
+    "done": true,
+    "ids": [
+      "019f2ee6-82fb-7d3e-9206-f3046c78a20a",
+      "019f2ed5-0b86-7e0e-b481-87eb36f646fa",
+      "019f2ed3-a85d-7081-af8f-76cf04f1fdff",
+      "019f2ed2-d207-7106-80ac-5f7fa2e0e420",
+      "019f2ed1-696d-7b98-b46e-35ea97fae0f4",
+      "019f2ed0-d6a9-79c6-bdb6-6fe662b70bd2",
+      "019f2ed0-67ab-7f9b-97c7-bd9757c87f87",
+      "019f2ecf-30f1-730e-9db1-fecd224dcb92",
+      "019f2ece-928a-773c-851a-9efd5a0b8507",
+      "019f2ecc-44c4-7af5-a6ab-0b0fdea1f0ae",
+      "019f2ecb-d48e-709a-ab9b-937eb97a962a",
+      "019f2ecb-2086-7419-bc5f-8ca623e16d10",
+      "019f2eca-3f5b-7403-9f3b-e9766eeebd6d",
+      "019f2e5d-c0ec-7bee-af7d-ef14907e289c",
+      "019f2c66-6c7b-797d-a2ad-3cf3876b097e",
+      "019f29ac-d464-780d-8d31-38a72c90ca11",
+      "019f29ab-e985-7766-ba40-b0e6c50187bd",
+      "019f29aa-0769-7221-a22c-c6b6def9b8ec",
+      "019f29a9-41a2-789f-a38f-f27ffdbef9ba"
+    ],
+    "checked": [
+      {
+        "id": "019f2ee6-82fb-7d3e-9206-f3046c78a20a",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 6, 2026 9:17:34 AM",
+            "content": "anagent 관련 작업으로 확인되어, 추가 예외처리 검토 중 입니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 6, 2026 9:17:34 AM",
+        "content": "anagent 관련 작업으로 확인되어, 추가 예외처리 검토 중 입니다."
+      }
+    ]
+  },
+  "Rsync Spawning Shell (CVE-2024-12084)": {
+    "done": true,
+    "ids": [
+      "019f320d-80a2-7111-9757-1c5ecd672785",
+      "019f302f-a80c-7fd4-bedf-1d6760839eaf",
+      "019f2fc0-6c78-7a93-937b-709db575e1d9",
+      "019f2f75-8b44-7612-828c-1306e02ef480",
+      "019f2de6-aaa9-7b2b-8af1-6bd5571d47f4",
+      "019f2d7d-6162-78c0-a976-379fca8cfb11",
+      "019f2d5d-ee28-7eb1-88b6-882523e841cd",
+      "019f2d17-19c4-7b1f-953a-2dda1228bb95",
+      "019f2bc5-dd55-7828-90a1-b948ec6ccfdf",
+      "019f2a97-197d-71ba-814c-bc1438e00a16",
+      "019f2a49-66e9-76b3-aa1b-4bb106acc09d",
+      "019f2976-fb86-772d-b1ce-8418355ca7e7",
+      "019f28f2-d37e-7e71-a9e5-0022d2bb9712",
+      "019f2892-13b7-72ab-9ed9-ef91c85c6f7f",
+      "019f2889-1fec-7398-93ba-ce2b89ce23fa",
+      "019f2855-128a-70e3-83a5-4d2e3de91958",
+      "019f2804-6629-7154-91f6-e7a572ea408d",
+      "019f27f9-a06b-7d3c-8ce6-9fbc4a6a20f5",
+      "019f27d3-afb7-7596-ac44-869dfe8bac19"
+    ],
+    "checked": [
+      {
+        "id": "019f320d-80a2-7111-9757-1c5ecd672785",
+        "notes": []
+      },
+      {
+        "id": "019f302f-a80c-7fd4-bedf-1d6760839eaf",
+        "notes": []
+      },
+      {
+        "id": "019f2fc0-6c78-7a93-937b-709db575e1d9",
+        "notes": []
+      },
+      {
+        "id": "019f2f75-8b44-7612-828c-1306e02ef480",
+        "notes": []
+      },
+      {
+        "id": "019f2de6-aaa9-7b2b-8af1-6bd5571d47f4",
+        "notes": []
+      }
+    ],
+    "selectedNotes": []
+  },
+  "bash - Creation of a suspicious executable file detected": {
+    "done": true,
+    "ids": [
+      "019f2f72-cce1-7101-a0bb-86e57967c2da",
+      "019f2f6d-e74b-737b-8192-4666eea9b8dd",
+      "019f2f6a-de42-739e-ad91-e874bd25bfee",
+      "019f2f68-5983-7ba1-b917-d4aec45306ce",
+      "019f2e4b-48a7-7dee-a4ba-466831e657a1",
+      "019f2e03-f5f7-70d0-bcf9-17398e402b93",
+      "019f2a45-9449-72a0-a36d-0738f064d40f",
+      "019f2a40-04a2-7a33-a50c-4917d7948aeb",
+      "019f2a3b-fec6-7374-ac02-3eb5fa2e538b",
+      "019f29f5-d7d8-74b3-9d5c-5745126f203a",
+      "019f29f3-74e0-7524-ba02-8db982cd2798",
+      "019f29f2-7626-7cb7-ba34-8c16b7499671",
+      "019f29f1-ecf7-7fec-8c82-96b5a49aa7a6",
+      "019f27dc-9776-75ba-a795-59d126559a55",
+      "019f2523-852d-7252-9a42-8ed95e2cba1e",
+      "019f2404-bf6c-7dd4-98dc-b43d8807ad92",
+      "019f2402-dcdb-7dc5-8934-2ecf43606815",
+      "019f2402-4175-77dd-bf85-459fdfab60c8",
+      "019f23b5-7639-7448-8db4-1f965c78a2ff"
+    ],
+    "checked": [
+      {
+        "id": "019f2f72-cce1-7101-a0bb-86e57967c2da",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 6, 2026 9:19:08 AM",
+            "content": "anagent 관련 작업으로 확인되어, 추가 예외처리 검토 중 입니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 6, 2026 9:19:08 AM",
+        "content": "anagent 관련 작업으로 확인되어, 추가 예외처리 검토 중 입니다."
+      }
+    ]
+  },
+  "sed - Creation of a suspicious executable file detected": {
+    "done": true,
+    "ids": [
+      "019f286b-c37c-7171-8ee2-eb34ff6ff576",
+      "019f286b-c079-79e6-bb3f-f9149107715c",
+      "019f286b-ca9e-7b25-9416-74c1d8504d10",
+      "019f286b-ca05-7585-84f5-dbc7461f329f",
+      "019f286b-c9a6-7fa9-80cf-c41170d312bf",
+      "019f286a-aebd-7d92-9465-df12d7be5b4f",
+      "019f286a-b231-74df-8314-27df6be63aa9",
+      "019f286a-ae2a-78a2-b31e-9ba972cc77e6",
+      "019f286a-b1c8-70dd-87d7-7d381c0b35d2",
+      "019f286a-adc4-7379-8917-aa54b67acbc6",
+      "019f286a-ade1-71dc-8c84-52402fce7ed4",
+      "019f286a-9f66-7352-b449-11e9c5c78187",
+      "019f27f5-7864-7754-95bd-0e588a724c7e",
+      "019f27f5-cc11-720e-89ba-3172c091a2ab",
+      "019f27f5-44ea-7218-860b-44975cd0e52b",
+      "019f27f5-436b-7233-8867-76ace3e698f0",
+      "019f27f5-4309-7945-ab74-cfbcdff938a5",
+      "019f27f5-4be4-74a4-adf1-f70fb02d684b",
+      "019f27f5-41cd-724c-9d54-b74ea84d7f6a"
+    ],
+    "checked": [
+      {
+        "id": "019f286b-c37c-7171-8ee2-eb34ff6ff576",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 6, 2026 10:07:30 AM",
+            "content": "anagent 관련 작업으로 확인되며, 예외처리 검토 요청드렸습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 6, 2026 10:07:30 AM",
+        "content": "anagent 관련 작업으로 확인되며, 예외처리 검토 요청드렸습니다."
+      }
+    ]
+  },
+  "kmod - industroryer2 wiper detected": {
+    "done": true,
+    "ids": [
+      "019f2347-7bb6-7b60-aecb-0843f3bc3c16",
+      "019f2347-4d6d-72e5-9cc0-bc3fd69de5e6",
+      "019f2347-13c9-7326-8fa6-464dd8a7980e",
+      "019f2347-10b8-7f54-a463-0a1796f5bb75",
+      "019f2345-91a6-7e1b-a8a1-8b8bf54c69e6",
+      "019f2345-89ad-7930-b0d6-7056d5d9b02e",
+      "019f2345-7dbc-7ea6-a0e1-452e0166c489",
+      "019f2345-7d1b-7b98-b678-7fd7bd15ff04",
+      "019f2345-7cf4-7a4e-aecd-9c8fdd1396a8",
+      "019f2345-7c71-776b-8e14-4c2aa8c26e25",
+      "019f2345-74c3-7fe4-bcbd-e4588b2f36cf",
+      "019f2345-2a0e-7de5-ac6f-926c6a064753",
+      "019f22ed-0917-7029-a4d2-5aa5122516fb",
+      "019f22ec-d2c8-7144-93e1-484ca2e91b2d",
+      "019f22ec-9da6-76a8-ab60-8e53fbdd53d5",
+      "019f22ec-994e-71c0-97d4-c78b8e43b481",
+      "019f22ec-91d9-7b24-8e1f-51a54b92b6d0",
+      "019f22ec-79d0-704f-afad-e2da6edd89e1",
+      "019f22ec-6d40-79a1-abbc-90a9534526d5"
+    ],
+    "checked": [
+      {
+        "id": "019f2347-7bb6-7b60-aecb-0843f3bc3c16",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 3, 2026 10:33:01 AM",
+            "content": "리눅스 커널에 'nvidia-drm' 모듈을 추가하는 동작으로 확인, 악성 행위 없습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 3, 2026 10:33:01 AM",
+        "content": "리눅스 커널에 'nvidia-drm' 모듈을 추가하는 동작으로 확인, 악성 행위 없습니다."
+      }
+    ]
+  },
+  "sftp-server - Shell trap usage as a trigger for execution detected": {
+    "done": true,
+    "ids": [
+      "019f321e-8592-78fe-9643-03b3d1530ec3",
+      "019f27f7-5f73-70a3-91f8-e356e3518f11",
+      "019f27f7-5ee9-7870-a7d1-84acff87d678",
+      "019f27f7-5fa6-7ff7-9894-c34a3af741a0",
+      "019f27f7-5ce1-7039-ad9f-7dd8776e73c2",
+      "019f27f7-58a7-7e33-94ca-a0339254c983",
+      "019f27f7-580c-77f8-8e4e-ef5baa8096b1",
+      "019f27f5-4cfa-7f94-8752-ec13afd4eda4",
+      "019f27f2-281c-7fdf-8409-f42a98a9c371",
+      "019f27e4-bd65-727a-8b4e-e362b439c2a8",
+      "019f27e4-a073-7e68-8c30-c8d6293a93bc",
+      "019f27e4-9f8a-75fa-9bcc-0be9336937b8",
+      "019f27e4-b7c5-7ad7-8d81-b0be137916d9",
+      "019f27e4-70ca-7e57-80d2-f65e76c1e744",
+      "019f27e4-5f5e-73b8-bbcd-493ac40dff7b",
+      "019f27e4-5e98-7909-913c-b4d7715f5cbe",
+      "019f27dc-4859-7cec-8877-641766089f44",
+      "019f27dc-3e2e-7fb9-a9ef-f2e6da55ef1c",
+      "019f27dc-459e-723a-b0f1-3562b61d0937"
+    ],
+    "checked": [
+      {
+        "id": "019f321e-8592-78fe-9643-03b3d1530ec3",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 6, 2026 10:11:12 AM",
+            "content": "anagent 관련 작업으로 확인되어, 추가 예외처리 검토 중 입니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 6, 2026 10:11:12 AM",
+        "content": "anagent 관련 작업으로 확인되어, 추가 예외처리 검토 중 입니다."
+      }
+    ]
+  },
+  "dpkg - Ransomware Suspicious Filesystem Activity Detected": {
+    "done": true,
+    "ids": [
+      "019f2338-be34-7078-a953-bdb6e219f943",
+      "019f22f6-0d5a-7ff2-b78a-bd7b6660dddc",
+      "019f22f6-0cbc-747d-92c1-7da41e445e43",
+      "019f22f2-cd71-79b1-83b0-36fa181ba3e7",
+      "019f22c5-e164-733e-8e9e-e9110ace9d45",
+      "019f22c5-8ad8-71d0-814d-d3a6d5098c2f",
+      "019f22c5-5819-778c-982a-b44e41616eed",
+      "019f22c2-c61d-7f96-b0c6-575583fc8a9b",
+      "019f22c2-941e-7f31-bd94-42e927bc4cfb",
+      "019f22c2-beab-77a8-9157-ded77698f0d4",
+      "019f22c2-7bdd-75fa-9674-4654ac41db52",
+      "019f22c2-559a-7e45-805c-0faa252a4035",
+      "019f22c2-5858-7389-93fd-1ea01778aee0",
+      "019f22be-ea4a-7860-984a-b331abb39653",
+      "019f22be-c317-7aeb-b916-23b123c4e631",
+      "019f22be-d75d-777f-9db9-91faf1bad913",
+      "019f22be-e8a5-7ecd-9a97-02e61ca75fc8",
+      "019f22be-e47d-748c-94e9-431b832c358f",
+      "019f22be-d13a-7158-b814-c81709dc9e78"
+    ],
+    "checked": [
+      {
+        "id": "019f2338-be34-7078-a953-bdb6e219f943",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 3, 2026 3:22:44 PM",
+            "content": "linux-image-generic 설치(커널 업데이트) 과정에서 탐지된 이벤트로 확인, 악성 행위 없습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 3, 2026 3:22:44 PM",
+        "content": "linux-image-generic 설치(커널 업데이트) 과정에서 탐지된 이벤트로 확인, 악성 행위 없습니다."
+      }
+    ]
+  },
+  "crio - Utility Replacement detected": {
+    "done": true,
+    "ids": [
+      "019f16c6-ba42-7177-b20b-50b54a2bd0e3",
+      "019f16c6-b181-7fc6-9031-a0764318f760",
+      "019f16c6-b174-762b-b2a3-9cc0641c5560",
+      "019f16c6-c2e6-789e-812d-e6071901a697",
+      "019f16c6-ba2f-7d97-897c-ef07a8189f0b",
+      "019f16c6-91f3-7a37-bab0-63b37230caac",
+      "019f16c6-9147-7e3b-bc44-614b3b90aecc",
+      "019f16c6-b2a9-7d79-8f3f-8d918053ced8",
+      "019f16c6-c1ae-7017-a8c1-bb80692e0f8b",
+      "019f16c6-9119-7675-ab6f-0d63d9224b28",
+      "019f16c6-9125-79f5-b892-e67c63ac5a1a",
+      "019f16c6-9098-7961-8140-8860519f881e"
+    ],
+    "checked": [
+      {
+        "id": "019f16c6-ba42-7177-b20b-50b54a2bd0e3",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "June 30, 2026 3:49:15 PM",
+            "content": "CRI-O 컨테이너 런타임에서 컨테이너 이미지 unpack 과정 중 발생한 행위로 확인, 악성 행위 없습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "June 30, 2026 3:49:15 PM",
+        "content": "CRI-O 컨테이너 런타임에서 컨테이너 이미지 unpack 과정 중 발생한 행위로 확인, 악성 행위 없습니다."
+      }
+    ]
+  },
+  "[SOC][IT] kisa blind 모의침투 식별 _IP": {
+    "done": true,
+    "ids": [
+      "019f11e0-3a8e-77e1-bcfa-34159a91171d",
+      "019f11dd-913a-7687-bc1d-e74604c529af",
+      "019f11db-6d34-7de0-82cd-017f7c6ed1eb",
+      "019f11cd-aacf-75d2-8c3c-9ec3efcbb7be",
+      "019f11cc-ff0f-7750-bbc6-53f0928a0674",
+      "019f11c7-a7ce-788f-8252-db37ae193079",
+      "019f1191-45d9-70cf-987e-65dcbee90108"
+    ],
+    "checked": [
+      {
+        "id": "019f11e0-3a8e-77e1-bcfa-34159a91171d",
+        "notes": []
+      },
+      {
+        "id": "019f11dd-913a-7687-bc1d-e74604c529af",
+        "notes": []
+      },
+      {
+        "id": "019f11db-6d34-7de0-82cd-017f7c6ed1eb",
+        "notes": []
+      },
+      {
+        "id": "019f11cd-aacf-75d2-8c3c-9ec3efcbb7be",
+        "notes": []
+      },
+      {
+        "id": "019f11cc-ff0f-7750-bbc6-53f0928a0674",
+        "notes": []
+      }
+    ],
+    "selectedNotes": []
+  },
+  "openssl - Dynamic Ransomware detected": {
+    "done": true,
+    "ids": [
+      "019f125c-d033-7cb8-8ecf-343cb7e06b92",
+      "019f1246-173a-7d01-b5b9-866cb418ac31",
+      "019f1238-13fd-708b-9f3b-1965c084d5d2",
+      "019f1201-0e3f-7805-918b-68e8d99edaf1",
+      "019f11ff-213a-75a1-bbdf-8d4087a230b4",
+      "019f11b3-0944-7396-b1ac-34caa0c6cf8e",
+      "019f10f3-3acd-7b25-ac9e-bc52bbdce948"
+    ],
+    "checked": [
+      {
+        "id": "019f125c-d033-7cb8-8ecf-343cb7e06b92",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "June 29, 2026 7:07:26 PM",
+            "content": "OpenSSL을 이용하여 로그 파일을 AES-256-CBC 방식으로 암호화하는 작업 수행 시 탐지된 것으로 확인됩니다. 정상 작업으로 판단됩니다"
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "June 29, 2026 7:07:26 PM",
+        "content": "OpenSSL을 이용하여 로그 파일을 AES-256-CBC 방식으로 암호화하는 작업 수행 시 탐지된 것으로 확인됩니다. 정상 작업으로 판단됩니다"
+      }
+    ]
+  },
+  "Process Tracing in Container": {
+    "done": true,
+    "ids": [
+      "019f2ca8-a837-775e-a42d-54c6d1dc7efc",
+      "019f2be3-92d3-7da6-b05a-de5a48786241",
+      "019f26b8-ed1c-71fb-8eae-7732093c6262",
+      "019f20f6-0409-7c30-8d43-d85737429b70",
+      "019f18c1-feb3-7052-b90f-4bbefc984357",
+      "019f17f8-9059-7bb3-92f7-c2ec693cc4cd"
+    ],
+    "checked": [
+      {
+        "id": "019f2ca8-a837-775e-a42d-54c6d1dc7efc",
+        "notes": []
+      },
+      {
+        "id": "019f2be3-92d3-7da6-b05a-de5a48786241",
+        "notes": []
+      },
+      {
+        "id": "019f26b8-ed1c-71fb-8eae-7732093c6262",
+        "notes": []
+      },
+      {
+        "id": "019f20f6-0409-7c30-8d43-d85737429b70",
+        "notes": []
+      },
+      {
+        "id": "019f18c1-feb3-7052-b90f-4bbefc984357",
+        "notes": []
+      }
+    ],
+    "selectedNotes": []
+  },
+  "sed - Shell trap usage as a trigger for execution detected": {
+    "done": true,
+    "ids": [
+      "019f27f5-4f45-7f25-b230-8a1325d89a91",
+      "019f27f5-4eac-787b-84df-48ff898ec941",
+      "019f27f5-4e74-75d2-b259-7e7722109daa",
+      "019f27f5-98e2-7177-b034-a964270013f2",
+      "019f27f5-980e-7026-94cf-8571abc1b38b",
+      "019f27f5-4c95-796a-98cc-96b728b49fc9"
+    ],
+    "checked": [
+      {
+        "id": "019f27f5-4f45-7f25-b230-8a1325d89a91",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 6, 2026 9:21:49 AM",
+            "content": "anagent 관련 작업으로 확인, 악성 행위 없습니다"
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 6, 2026 9:21:49 AM",
+        "content": "anagent 관련 작업으로 확인, 악성 행위 없습니다"
+      }
+    ]
+  },
+  "mv - Web Shell detected": {
+    "done": true,
+    "ids": [
+      "019f2630-4b2c-7a25-bf15-a88320070243",
+      "019f262f-126c-7fea-a5a8-a300a26a9029",
+      "019f25c3-4e11-7878-8305-ff0b0f2d1555",
+      "019f2173-1f6a-7c00-9fd7-8c207013f97a",
+      "019f2153-459f-753a-bed4-6e72cac5716b"
+    ],
+    "checked": [
+      {
+        "id": "019f2630-4b2c-7a25-bf15-a88320070243",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 3, 2026 4:36:40 PM",
+            "content": "단순 파일 이동 작업으로 확인되며, 악성 행위는 없습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 3, 2026 4:36:40 PM",
+        "content": "단순 파일 이동 작업으로 확인되며, 악성 행위는 없습니다."
+      }
+    ]
+  },
+  "prelink - Presence of an unauthenticated process in an SSH session detected": {
+    "done": true,
+    "ids": [
+      "019f1fa9-7c4e-7eec-aa2f-255c6adc8390",
+      "019f1e7c-8adc-72a7-8736-ed0ab1b606aa",
+      "019f14ff-d729-7527-8172-62ae2fb02918",
+      "019f14ff-51e5-781c-a0fa-c563f848778d",
+      "019f145e-bdc1-7bf4-8aec-134fceb26258"
+    ],
+    "checked": [
+      {
+        "id": "019f1fa9-7c4e-7eec-aa2f-255c6adc8390",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 2, 2026 11:37:02 AM",
+            "content": "sshd로 접근한 사용자의 prelink 명령어가 포함된 스크립트를 실행한 것으로 추정, 취약점 발생 가능성이 존재하여 스크립트 내 명령어 삭제, 시스템 복구, 패키지 삭제를 권고드렸습니다. 현재 악성 행위는 없는 것으로 확인하였습니다. (20260617)"
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 2, 2026 11:37:02 AM",
+        "content": "sshd로 접근한 사용자의 prelink 명령어가 포함된 스크립트를 실행한 것으로 추정, 취약점 발생 가능성이 존재하여 스크립트 내 명령어 삭제, 시스템 복구, 패키지 삭제를 권고드렸습니다. 현재 악성 행위는 없는 것으로 확인하였습니다. (20260617)"
+      }
+    ]
+  },
+  "_conda - Ransomware Suspicious Filesystem Activity Detected": {
+    "done": true,
+    "ids": [
+      "019f26b7-4dad-7df8-92d3-0de1cf0d43c2",
+      "019f210c-3421-7136-8b77-1f2d5ba94cdb",
+      "019f1260-9a24-77ac-b20e-1c45a39357bc",
+      "019f1239-aef7-7d65-b7a6-eaeb3ecd73d4"
+    ],
+    "checked": [
+      {
+        "id": "019f26b7-4dad-7df8-92d3-0de1cf0d43c2",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 3, 2026 4:41:26 PM",
+            "content": "Anaconda 환경 구성 과정에서 내부 패키지를 압축 해제하는 명령어 실행 탐지, 정상 설치 동작으로 확인됩니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 3, 2026 4:41:26 PM",
+        "content": "Anaconda 환경 구성 과정에서 내부 패키지를 압축 해제하는 명령어 실행 탐지, 정상 설치 동작으로 확인됩니다."
+      }
+    ]
+  },
+  "dash - Ransomware Suspicious Filesystem Activity Detected": {
+    "done": true,
+    "ids": [
+      "019f22c0-1faf-753d-a9d4-cacce257d3d4",
+      "019f22c0-0f00-7e67-ac88-bc91c6def454",
+      "019f22bf-ffe9-7fb4-a3db-9f2c39fff21d",
+      "019f22bf-e1b3-7008-9503-b3062c0f2c64"
+    ],
+    "checked": [
+      {
+        "id": "019f22c0-1faf-753d-a9d4-cacce257d3d4",
+        "notes": [
+          {
+            "author": "CERT_A조",
+            "date": "July 3, 2026 2:13:15 PM",
+            "content": "탐지된 이벤트 분석 결과, linux-image-generic 업데이트 시 탐지된 것으로 확인됩니다. 시스템에 등록되어 있는 모든 DKMS 모듈을 새 커널에 맞게 다시 컴파일하면서 탐지된 것으로 확인됩니다. 해당 호스트는 기존부터 Generic 커널을 사용 중인 것으로 확인되어 정상적인 커널 업데이트 작업으로 판단되며, 오탐으로 판단됩니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_A조",
+        "date": "July 3, 2026 2:13:15 PM",
+        "content": "탐지된 이벤트 분석 결과, linux-image-generic 업데이트 시 탐지된 것으로 확인됩니다. 시스템에 등록되어 있는 모든 DKMS 모듈을 새 커널에 맞게 다시 컴파일하면서 탐지된 것으로 확인됩니다. 해당 호스트는 기존부터 Generic 커널을 사용 중인 것으로 확인되어 정상적인 커널 업데이트 작업으로 판단되며, 오탐으로 판단됩니다."
+      }
+    ]
+  },
+  "sshd - Ransomware Suspicious Filesystem Activity Detected": {
+    "done": true,
+    "ids": [
+      "019f2233-7484-768c-a16c-927372f079fe",
+      "019f2232-13e8-7951-b918-f043115ba03a",
+      "019f1795-3482-762d-8147-b0b693e54bd7",
+      "019f176b-ff3d-7108-bb31-895127562eae"
+    ],
+    "checked": [
+      {
+        "id": "019f2233-7484-768c-a16c-927372f079fe",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 3, 2026 3:06:53 PM",
+            "content": "IP 주소 '10.220.205.89' 에서 sshd를 통해 파일을 생성하는 행위로 확인되며, 파일 채증 불가로 정상 작업 여부 확인 요청드렸습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 3, 2026 3:06:53 PM",
+        "content": "IP 주소 '10.220.205.89' 에서 sshd를 통해 파일을 생성하는 행위로 확인되며, 파일 채증 불가로 정상 작업 여부 확인 요청드렸습니다."
+      }
+    ]
+  },
+  "tar - Modification Of ld Variables detected": {
+    "done": true,
+    "ids": [
+      "019f2340-4c70-7f7f-9df4-03cb32330100",
+      "019f2340-8315-7f67-8ffc-84207d0249a4",
+      "019f22e6-ca82-775e-9bab-6f3349310548",
+      "019f22e6-c524-797e-9473-487ae9de79d8"
+    ],
+    "checked": [
+      {
+        "id": "019f2340-4c70-7f7f-9df4-03cb32330100",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 3, 2026 3:34:38 PM",
+            "content": "NVIDIA CUDA Toolkit 설치 과정에서의 파일 압축 해제 행위 탐지, 악성 행위 없습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 3, 2026 3:34:38 PM",
+        "content": "NVIDIA CUDA Toolkit 설치 과정에서의 파일 압축 해제 행위 탐지, 악성 행위 없습니다."
+      }
+    ]
+  },
+  "objtool - Ransomware Suspicious Filesystem Activity Detected": {
+    "done": true,
+    "ids": [
+      "019f22ca-6ff1-708d-862c-ada87e4fe9fa",
+      "019f22c6-dec4-7979-839f-c6b195d379f3",
+      "019f22c1-2ca1-7dcc-bf6f-f63c5bdc9e84"
+    ],
+    "checked": [
+      {
+        "id": "019f22ca-6ff1-708d-862c-ada87e4fe9fa",
+        "notes": [
+          {
+            "author": "CERT_A조",
+            "date": "July 3, 2026 1:47:27 PM",
+            "content": "탐지된 이벤트 분석 결과, linux-image-generic 업데이트 시 탐지된 것으로 확인됩니다. 빌드 과정에서 생성된 커널 모듈 오브젝트 파일에 대해 objtool 검사 수행 시 탐지된 것으로 확인됩니다. 해당 호스트는 기존부터 Generic 커널을 사용 중인 것으로 확인되어 정상적인 커널 업데이트 작업으로 판단되며, 오탐으로 판단됩니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_A조",
+        "date": "July 3, 2026 1:47:27 PM",
+        "content": "탐지된 이벤트 분석 결과, linux-image-generic 업데이트 시 탐지된 것으로 확인됩니다. 빌드 과정에서 생성된 커널 모듈 오브젝트 파일에 대해 objtool 검사 수행 시 탐지된 것으로 확인됩니다. 해당 호스트는 기존부터 Generic 커널을 사용 중인 것으로 확인되어 정상적인 커널 업데이트 작업으로 판단되며, 오탐으로 판단됩니다."
+      }
+    ]
+  },
+  "Potential Certipy Tool Execution": {
+    "done": true,
+    "ids": [
+      "019f328f-2425-77f5-b816-2b6aa7b8b974",
+      "019f1b9d-74e5-7d12-84bd-c7c2f74bdc47"
+    ],
+    "checked": [
+      {
+        "id": "019f328f-2425-77f5-b816-2b6aa7b8b974",
+        "notes": []
+      }
+    ],
+    "selectedNotes": []
+  },
+  "[SOC][IT] Mini Shai-Hulud 공급망 패키지 변조 위협 동향_IoC_260513": {
+    "done": true,
+    "ids": [
+      "019f318e-4e61-7241-a9ad-f91412f6327b",
+      "019f186a-f951-776f-a964-7d5524dc7381"
+    ],
+    "checked": [
+      {
+        "id": "019f318e-4e61-7241-a9ad-f91412f6327b",
+        "notes": []
+      }
+    ],
+    "selectedNotes": []
+  },
+  "agent - Chisel malware was detected": {
+    "done": true,
+    "ids": [
+      "019f1272-a018-78a7-a1a2-649d1f43af41",
+      "019f1258-10eb-7425-9868-7b62d16879ed"
+    ],
+    "checked": [
+      {
+        "id": "019f1272-a018-78a7-a1a2-649d1f43af41",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "June 30, 2026 10:42:00 AM",
+            "content": "담당자답변(20260630): AB캠페인 서비스로 운영되는 전체 컨테이너 관리를 위한 Portainer agent 이미지와 이를 기동하기 위한 cmd 명령어로, chisel 프로세스는 포테이너가 컨테이너 관리를 위한 통신시 사용하는 프로세스로 저희 시스템 구조상 업무 수행에 필요한 프로세스"
+          },
+          {
+            "author": "CERT_E조",
+            "date": "June 29, 2026 6:24:45 PM",
+            "content": "Chisel 오픈소스가 포함된 agent 파일이 탐지되었으며, 정상 작업 여부 확인 요청 및 프로세스 종료 및 파일 삭제를 안내드렸습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "June 30, 2026 10:42:00 AM",
+        "content": "담당자답변(20260630): AB캠페인 서비스로 운영되는 전체 컨테이너 관리를 위한 Portainer agent 이미지와 이를 기동하기 위한 cmd 명령어로, chisel 프로세스는 포테이너가 컨테이너 관리를 위한 통신시 사용하는 프로세스로 저희 시스템 구조상 업무 수행에 필요한 프로세스"
+      },
+      {
+        "author": "CERT_E조",
+        "date": "June 29, 2026 6:24:45 PM",
+        "content": "Chisel 오픈소스가 포함된 agent 파일이 탐지되었으며, 정상 작업 여부 확인 요청 및 프로세스 종료 및 파일 삭제를 안내드렸습니다."
+      }
+    ]
+  },
+  "conda.exe - Ransomware Suspicious Filesystem Activity Detected": {
+    "done": true,
+    "ids": [
+      "019f2dd2-479f-75ac-81ef-8de562a38f2b",
+      "019f2d53-78e2-7c88-863a-a4d1aacf768a"
+    ],
+    "checked": [
+      {
+        "id": "019f2dd2-479f-75ac-81ef-8de562a38f2b",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 6, 2026 1:28:58 PM",
+            "content": "Anaconda 환경 구성 과정에서 내부 패키지를 압축 해제하는 명령어 실행 탐지, 정상 설치 동작으로 확인됩니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 6, 2026 1:28:58 PM",
+        "content": "Anaconda 환경 구성 과정에서 내부 패키지를 압축 해제하는 명령어 실행 탐지, 정상 설치 동작으로 확인됩니다."
+      }
+    ]
+  },
+  "pip - Ransomware Suspicious Filesystem Activity Detected": {
+    "done": true,
+    "ids": [
+      "019f25d0-8821-7db7-af98-640c46d97992",
+      "019f25ce-7dac-7aa6-bafe-eea6bcd523b0"
+    ],
+    "checked": [
+      {
+        "id": "019f25d0-8821-7db7-af98-640c46d97992",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 3, 2026 5:47:58 PM",
+            "content": "pip 명령어를 활용하여 requirements.txt 파일 내 패키지 목록을 다운로드 하는 행위가 탐지되었습니다. 파일 경로 미확보로 채증 불가하였으나 이후 행위 확인 시 torch, transformers, numpy, requests, sympy 등의 개발 환경에서 사용하는 패키지가 설치된 것으로 확인되었습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 3, 2026 5:47:58 PM",
+        "content": "pip 명령어를 활용하여 requirements.txt 파일 내 패키지 목록을 다운로드 하는 행위가 탐지되었습니다. 파일 경로 미확보로 채증 불가하였으나 이후 행위 확인 시 torch, transformers, numpy, requests, sympy 등의 개발 환경에서 사용하는 패키지가 설치된 것으로 확인되었습니다."
+      }
+    ]
+  },
+  "systemctl - Attempt to stop the agent service detected": {
+    "done": true,
+    "ids": [
+      "019f11ff-4b13-72b8-904f-44a576ca5873",
+      "019f1166-2b24-7025-93ea-cc997a893c9d"
+    ],
+    "checked": [
+      {
+        "id": "019f11ff-4b13-72b8-904f-44a576ca5873",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "June 29, 2026 6:19:45 PM",
+            "content": "SentinelOne 에이전트 서비스 중지를 시도하는 동작으로 확인, 정상 작업 여부 확인 요청드렸습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "June 29, 2026 6:19:45 PM",
+        "content": "SentinelOne 에이전트 서비스 중지를 시도하는 동작으로 확인, 정상 작업 여부 확인 요청드렸습니다."
+      }
+    ]
+  },
+  "uv - Ransomware Suspicious Filesystem Activity Detected": {
+    "done": true,
+    "ids": [
+      "019f2624-eab8-73fd-a674-68a78a055011",
+      "019f12cd-9d6d-71e0-bce4-59494b555b5f"
+    ],
+    "checked": [
+      {
+        "id": "019f2624-eab8-73fd-a674-68a78a055011",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 3, 2026 6:07:00 PM",
+            "content": "Python 의존성 설치 작업으로 확인, 악성 행위 없습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 3, 2026 6:07:00 PM",
+        "content": "Python 의존성 설치 작업으로 확인, 악성 행위 없습니다."
+      }
+    ]
+  },
+  "ADJ1PW_PW22908_20260630_214649_7.log - Execution From memfd detected": {
+    "done": true,
+    "ids": [
+      "019f1a9c-8be7-710c-9247-c41e227ed4e8"
+    ],
+    "checked": [
+      {
+        "id": "019f1a9c-8be7-710c-9247-c41e227ed4e8",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 1, 2026 1:52:47 PM",
+            "content": "startTools.Sh 스크립트 실행 과정에서 문자열을 검색하는 것으로 확인, 악성 행위 없습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 1, 2026 1:52:47 PM",
+        "content": "startTools.Sh 스크립트 실행 과정에서 문자열을 검색하는 것으로 확인, 악성 행위 없습니다."
+      }
+    ]
+  },
+  "KTDSNotify.exe detected as Malware": {
+    "done": true,
+    "ids": [
+      "019f17cc-c8c6-7f36-bef6-cccac1d465d1"
+    ],
+    "checked": [
+      {
+        "id": "019f17cc-c8c6-7f36-bef6-cccac1d465d1",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 1, 2026 2:15:22 PM",
+            "content": "Note Edited 담당자답변(20260701): 일회성 사용으로 별도 file Path 예외 처리 미필요로 확인 (OS접근제어 패치 작업 관련 파일)"
+          },
+          {
+            "author": "CERT_A조",
+            "date": "July 1, 2026 10:51:48 AM",
+            "content": "KTDSNotify.exe 파일 생성 시 탐지, 해당 파일은 10.220.197.61(p-ktacs-pk1-gw05)이 원격으로 접근하여 생성한 것으로 추정, 탐지된 파일 확인 시 Python 실행 파일로 메인 코드로 추정되는 test_241127.py 분석해본 결과 CMD 창이 발생안되게 숨기는 코드 외 특이사항 없는 것으로 확인, 해당 파일 업무 유관 파일인지 확인 요청 메일 발송하였습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 1, 2026 2:15:22 PM",
+        "content": "Note Edited 담당자답변(20260701): 일회성 사용으로 별도 file Path 예외 처리 미필요로 확인 (OS접근제어 패치 작업 관련 파일)"
+      },
+      {
+        "author": "CERT_A조",
+        "date": "July 1, 2026 10:51:48 AM",
+        "content": "KTDSNotify.exe 파일 생성 시 탐지, 해당 파일은 10.220.197.61(p-ktacs-pk1-gw05)이 원격으로 접근하여 생성한 것으로 추정, 탐지된 파일 확인 시 Python 실행 파일로 메인 코드로 추정되는 test_241127.py 분석해본 결과 CMD 창이 발생안되게 숨기는 코드 외 특이사항 없는 것으로 확인, 해당 파일 업무 유관 파일인지 확인 요청 메일 발송하였습니다."
+      }
+    ]
+  },
+  "apt-key - Shell trap usage as a trigger for execution detected": {
+    "done": true,
+    "ids": [
+      "019f16da-96ec-7c54-a4f8-071276830ff5"
+    ],
+    "checked": [
+      {
+        "id": "019f16da-96ec-7c54-a4f8-071276830ff5",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "June 30, 2026 7:00:31 PM",
+            "content": "보안 정상 패키지 검증 동작으로 보입니다. 악성 행위 없음"
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "June 30, 2026 7:00:31 PM",
+        "content": "보안 정상 패키지 검증 동작으로 보입니다. 악성 행위 없음"
+      }
+    ]
+  },
+  "claude - Ransomware Suspicious Filesystem Activity Detected": {
+    "done": true,
+    "ids": [
+      "019f118d-f1ca-74c7-8f61-7e5daf34225b"
+    ],
+    "checked": [
+      {
+        "id": "019f118d-f1ca-74c7-8f61-7e5daf34225b",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "June 29, 2026 6:14:06 PM",
+            "content": "Claude CLI 로그인 상태 확인하는 명령어 탐지, 악성 행위는 없습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "June 29, 2026 6:14:06 PM",
+        "content": "Claude CLI 로그인 상태 확인하는 명령어 탐지, 악성 행위는 없습니다."
+      }
+    ]
+  },
+  "clickhouse - Userspace execution from memory detected": {
+    "done": true,
+    "ids": [
+      "019f19a3-1aff-7b04-9f07-82d406cd5588"
+    ],
+    "checked": [
+      {
+        "id": "019f19a3-1aff-7b04-9f07-82d406cd5588",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 1, 2026 1:39:14 PM",
+            "content": "Clickhouse DB 서버 프로세스 정상 실행 동작으로 확인, 악성 행위 확인되지 않습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 1, 2026 1:39:14 PM",
+        "content": "Clickhouse DB 서버 프로세스 정상 실행 동작으로 확인, 악성 행위 확인되지 않습니다."
+      }
+    ]
+  },
+  "crio - Execution From memfd detected": {
+    "done": true,
+    "ids": [
+      "019f21c1-f378-7362-8e1a-3c31b3c084d9"
+    ],
+    "checked": [
+      {
+        "id": "019f21c1-f378-7362-8e1a-3c31b3c084d9",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 2, 2026 4:48:52 PM",
+            "content": "crio 프로세스의 정상적인 동작 과정에서 발생한 것으로, 악성 행위 및 특이사항은 확인되지 않았습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 2, 2026 4:48:52 PM",
+        "content": "crio 프로세스의 정상적인 동작 과정에서 발생한 것으로, 악성 행위 및 특이사항은 확인되지 않았습니다."
+      }
+    ]
+  },
+  "kmod - Abnormal multi staged load sequence detected": {
+    "done": true,
+    "ids": [
+      "019f2669-d9fe-7160-a165-c03ab786dbb9"
+    ],
+    "checked": [
+      {
+        "id": "019f2669-d9fe-7160-a165-c03ab786dbb9",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 3, 2026 6:20:12 PM",
+            "content": "nfs 관련 모듈을 로드하는 동작으로 확인, 특이 사항 없습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 3, 2026 6:20:12 PM",
+        "content": "nfs 관련 모듈을 로드하는 동작으로 확인, 특이 사항 없습니다."
+      }
+    ]
+  },
+  "kmod - Ransomware Suspicious Filesystem Activity Detected": {
+    "done": true,
+    "ids": [
+      "019f22c4-271a-7232-94e6-db3cb0440106"
+    ],
+    "checked": [
+      {
+        "id": "019f22c4-271a-7232-94e6-db3cb0440106",
+        "notes": [
+          {
+            "author": "CERT_A조",
+            "date": "July 3, 2026 2:14:36 PM",
+            "content": "탐지된 이벤트 분석 결과, linux-image-generic 업데이트 시 탐지된 것으로 확인됩니다. 커널 모듈 의존성 정보를 재생성하는 depmod 명령으로 확인하면서 탐지된 것으로 확인됩니다. 해당 호스트는 기존부터 Generic 커널을 사용 중인 것으로 확인되어 정상적인 커널 업데이트 작업으로 판단되며, 오탐으로 판단됩니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_A조",
+        "date": "July 3, 2026 2:14:36 PM",
+        "content": "탐지된 이벤트 분석 결과, linux-image-generic 업데이트 시 탐지된 것으로 확인됩니다. 커널 모듈 의존성 정보를 재생성하는 depmod 명령으로 확인하면서 탐지된 것으로 확인됩니다. 해당 호스트는 기존부터 Generic 커널을 사용 중인 것으로 확인되어 정상적인 커널 업데이트 작업으로 판단되며, 오탐으로 판단됩니다."
+      }
+    ]
+  },
+  "mv - Creation of a suspicious executable file detected": {
+    "done": true,
+    "ids": [
+      "019f1c3b-80a4-74e8-a3bf-4c7a7d506c60"
+    ],
+    "checked": [
+      {
+        "id": "019f1c3b-80a4-74e8-a3bf-4c7a7d506c60",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 2, 2026 9:37:30 AM",
+            "content": "담당자답변(20260701): 백업에이전트 설치파일을 sftp로 보내주기 위해서 tmp로 이동하는 정상 작업으로 확인"
+          },
+          {
+            "author": "CERT_E조",
+            "date": "July 1, 2026 4:10:31 PM",
+            "content": "mv 명령어를 사용하여 디렉토리를 /tmp/ 경로로 이동하는 행위 탐지, 해당 경로는 현재 존재하지 않는 것으로 확인되어 디렉토리 내 정보 점검 및 정상 작업 여부 확인 요청드렸습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 2, 2026 9:37:30 AM",
+        "content": "담당자답변(20260701): 백업에이전트 설치파일을 sftp로 보내주기 위해서 tmp로 이동하는 정상 작업으로 확인"
+      },
+      {
+        "author": "CERT_E조",
+        "date": "July 1, 2026 4:10:31 PM",
+        "content": "mv 명령어를 사용하여 디렉토리를 /tmp/ 경로로 이동하는 행위 탐지, 해당 경로는 현재 존재하지 않는 것으로 확인되어 디렉토리 내 정보 점검 및 정상 작업 여부 확인 요청드렸습니다."
+      }
+    ]
+  },
+  "ncat - Netcat reverse shell detected": {
+    "done": true,
+    "ids": [
+      "019f1c33-8739-7024-a86c-e499ea6a9d37"
+    ],
+    "checked": [
+      {
+        "id": "019f1c33-8739-7024-a86c-e499ea6a9d37",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 2, 2026 9:34:18 AM",
+            "content": "담당자답변(20260701): 해당 호스트는 담당자 TEST PC로 확인됨"
+          },
+          {
+            "author": "CERT_E조",
+            "date": "July 1, 2026 3:31:46 PM",
+            "content": "netcat를 사용한 61.74.126.218:4444 연결 시도 탐지, 과거 '서버 edr 테스트' 작업에 의한 탐지 이력 확인으로 유사 작업 진행 여부 및 업무 연관성 확인 요청드렸습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 2, 2026 9:34:18 AM",
+        "content": "담당자답변(20260701): 해당 호스트는 담당자 TEST PC로 확인됨"
+      },
+      {
+        "author": "CERT_E조",
+        "date": "July 1, 2026 3:31:46 PM",
+        "content": "netcat를 사용한 61.74.126.218:4444 연결 시도 탐지, 과거 '서버 edr 테스트' 작업에 의한 탐지 이력 확인으로 유사 작업 진행 여부 및 업무 연관성 확인 요청드렸습니다."
+      }
+    ]
+  },
+  "sftp - Attempt to modify SentinelOne Agent files detected": {
+    "done": true,
+    "ids": [
+      "019f1c34-46ef-74a7-ae2c-1f88b4083a5d"
+    ],
+    "checked": [
+      {
+        "id": "019f1c34-46ef-74a7-ae2c-1f88b4083a5d",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 1, 2026 6:21:14 PM",
+            "content": "sftp 접속 후 압축된 rpm 패키지 파일을 이동하는 것으로 확인, 악성 행위 없습니다."
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 1, 2026 6:21:14 PM",
+        "content": "sftp 접속 후 압축된 rpm 패키지 파일을 이동하는 것으로 확인, 악성 행위 없습니다."
+      }
+    ]
+  },
+  "tar - Creation of a suspicious executable file detected": {
+    "done": true,
+    "ids": [
+      "019f27bd-5e54-7490-ab7e-2db37e24d478"
+    ],
+    "checked": [
+      {
+        "id": "019f27bd-5e54-7490-ab7e-2db37e24d478",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 6, 2026 1:25:23 PM",
+            "content": "anagent 관련 작업으로 확인, 악성 행위 없습니다"
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 6, 2026 1:25:23 PM",
+        "content": "anagent 관련 작업으로 확인, 악성 행위 없습니다"
+      }
+    ]
+  },
+  "xpiwrk1 - Execution From memfd detected": {
+    "done": true,
+    "ids": [
+      "019f25ec-823a-7d36-b379-e3eaa6c6680e"
+    ],
+    "checked": [
+      {
+        "id": "019f25ec-823a-7d36-b379-e3eaa6c6680e",
+        "notes": [
+          {
+            "author": "CERT_E조",
+            "date": "July 3, 2026 7:02:17 PM",
+            "content": "startTools.Sh, TCMon_runSPILOG.ksh, TCMon_SPILOG.ksh 등의 스크립트 실행 과정에서 프로세스 목록을 확인하는 동작이 탐지되었으나, 파일 채증 불가로 확인/ 업무 유관성 및 정상 작업 여부 확인 요청드렸습니다.(20260625)"
+          }
+        ]
+      }
+    ],
+    "selectedNotes": [
+      {
+        "author": "CERT_E조",
+        "date": "July 3, 2026 7:02:17 PM",
+        "content": "startTools.Sh, TCMon_runSPILOG.ksh, TCMon_SPILOG.ksh 등의 스크립트 실행 과정에서 프로세스 목록을 확인하는 동작이 탐지되었으나, 파일 채증 불가로 확인/ 업무 유관성 및 정상 작업 여부 확인 요청드렸습니다.(20260625)"
+      }
+    ]
+  }
+}
