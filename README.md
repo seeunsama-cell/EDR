@@ -1,1 +1,1 @@
-codex-context/anagent-fp-improvement/00_README.md부터 읽고 anagent 오탐 개선 작업 맥락 이어서 진행해줘.
+이 repo의 codex-context/sentinelone-edr-missed-detection/ 폴더를 읽고 SentinelOne 서버 EDR 악성 명령어 탐지 테스트 미탐 건 업무를 이어가줘.
